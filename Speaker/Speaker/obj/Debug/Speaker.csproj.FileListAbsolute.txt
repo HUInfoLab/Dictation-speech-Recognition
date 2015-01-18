@@ -1,0 +1,9 @@
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\bin\Debug\Speaker.exe.config
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\bin\Debug\Speaker.exe
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\bin\Debug\Speaker.pdb
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.exe
+C:\Users\roozbeh\Documents\Visual Studio 2012\Projects\Speaker\Speaker\Speaker\obj\Debug\Speaker.pdb
